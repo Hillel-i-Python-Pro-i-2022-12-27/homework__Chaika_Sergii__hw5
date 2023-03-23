@@ -160,7 +160,7 @@ cython_debug/
 
 .idea/
 
-../files_input/*
-!../files_input/.gitkeep
-../files_output/*
-!../files_output/.gitkeep
+/files_input/*
+!/files_input/.gitkeep
+/files_output/*
+!/files_output/.gitkeep

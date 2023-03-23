@@ -1,7 +1,7 @@
 # Ignore all
-homework__Chaika_Sergii__hw5/main.py
+**
 
 # Exclude
-!../application
+!/application
 !main.py
 !requirements.txt
